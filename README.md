@@ -26,10 +26,6 @@ I hold a Bachelor's degree in Computer Engineering from and currently I am Maste
 - **Description**: Analyzing and optimizing resource allocation for RSMA-based wireless systems.
 - **Skills**: Python, MATLAB, Convex Optimization, Data Visualization.  
 
-### 🤖 [Machine Learning](https://github.com/emanuelvalerio/concept-drift)  
-- **Description**: Exploring techniques to detect and adapt to concept drift in AI systems.  
-- **Skills**: Python, TensorFlow, Scikit-learn, Pandas.  
-
 ## 📬 Contact Me  
 
 - **Email**: emanuelvalerio@alu.ufc.br
