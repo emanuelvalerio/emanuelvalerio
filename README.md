@@ -34,5 +34,5 @@ I hold a Bachelor's degree in Computer Engineering from and currently I am Maste
 
 - **Email**: emanuelvalerio@alu.ufc.br
 - **Email**: emanuelvalerio69@gmail.com
-- **LinkedIn**: [Emanuel Valério]([https://www.linkedin.com/in/emanuelvalerio/](https://www.linkedin.com/in/emanuel-val%C3%A9rio-pereira-997b7413b/))  
+- **LinkedIn**: [Emanuel Valério](https://www.linkedin.com/in/emanuel-val%C3%A9rio-pereira-997b7413b/)
 
