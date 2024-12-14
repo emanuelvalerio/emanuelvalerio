@@ -22,11 +22,11 @@ I hold a Bachelor's degree in Computer Engineering from and currently I am Maste
 
 ## 🚀 Projects and Research  
 
-### 📡 [Radio Resource Allocation for Future Mobile Networks Based on RSMA](https://github.com/emanuelvalerio/rsma-resource-allocation)  
+### 📡 [Radio Resource Allocation for Future Mobile Networks Based on RSMA]([https://github.com/emanuelvalerio/rsma-resource-allocation](https://github.com/emanuelvalerio/Rate-Splitting-Multiple-Acess-a-Simple-Two-User-Rate-Analysis))  
 - **Description**: Analyzing and optimizing resource allocation for RSMA-based wireless systems.
 - **Skills**: Python, MATLAB, Convex Optimization, Data Visualization.  
 
-### 🤖 [Concept Drift in Machine Learning](https://github.com/emanuelvalerio/concept-drift)  
+### 🤖 [Machine Learning](https://github.com/emanuelvalerio/concept-drift)  
 - **Description**: Exploring techniques to detect and adapt to concept drift in AI systems.  
 - **Skills**: Python, TensorFlow, Scikit-learn, Pandas.  
 
