@@ -24,7 +24,7 @@ I hold a Bachelor's degree in Computer Engineering from and currently I am Maste
 
 ### 📡 [Radio Resource Allocation for Future Mobile Networks Based on RSMA](https://github.com/emanuelvalerio/Rate-Splitting-Multiple-Acess-a-Simple-Two-User-Rate-Analysis)  
 - **Description**: Analyzing and optimizing resource allocation for RSMA-based wireless systems.
-- **Skills**: Python, MATLAB, Convex Optimization, Data Visualization.  
+- **Skills**: MATLAB, Convex Optimization, Data Visualization.  
 
 ## 📬 Contact Me  
 
