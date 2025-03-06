@@ -1,6 +1,6 @@
 # Hi, I'm Emanuel Valério Pereira! 👋
 
-I hold a Bachelor's degree in Computer Engineering from and currently I am Master's student in Electrical and Computer Engineering at the Federal University of Ceará (UFC), Brazil. My research focuses on **Wireless Communication**, particularly in **Resource Allocation for Next-Generation Mobile Networks (6G)**.
+I hold a Bachelor's degree in Computer Engineering from and currently I am Master's student in Electrical and Computer Engineering at the Federal University of Ceará (UFC), Brazil. My research focuses on **Wireless Communication**, particularly in **Resource Allocation for Next-Generation Mobile Networks**.
 
 💻 I love solving problems in:
 - 📡 **Wireless Communication**: Exploring resource allocation and other future mobile technologies.
