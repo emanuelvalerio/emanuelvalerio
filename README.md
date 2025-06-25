@@ -1,8 +1,8 @@
 # Hi, I'm Emanuel Valério Pereira! 👋
 
 I hold a Bachelor’s degree in Computer Engineering from the Federal University of Ceará (UFC) in 2024, graduating with the highest honors (Summa Cum Laude), with a specialization in Telecommunica-
-tions. He is currently pursuing a Master’s degree in the Graduate Program in Electrical and Computer Engineering (PPGEEC) at UFC, where he is focused on investigating resource allocation for
-future mobile communication systems. During his undergraduate studies, he was a scholarship recipient of the Tutorial Education Program (PET) in Computer Engineering. Additionally, he holds a technical qualification in Computer Networks. My research focuses on **Wireless Communication**, particularly in **Resource Allocation for Next-Generation Mobile Networks**.
+tions. I am currently pursuing a Master’s degree in the Graduate Program in Electrical and Computer Engineering (PPGEEC) at UFC, where I am focused on investigating resource allocation for
+future mobile communication systems. During my undergraduate studies, I was a scholarship recipient of the Tutorial Education Program (PET) in Computer Engineering. Additionally, I hold a technical qualification in Computer Networks. My research focuses on **Wireless Communication**, particularly in **Resource Allocation for Next-Generation Mobile Networks**.
 
 💻 I love solving problems in:
 - 📡 **Wireless Communication**: Exploring resource allocation and other future mobile technologies.
